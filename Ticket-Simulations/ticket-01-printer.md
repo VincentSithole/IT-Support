@@ -1,7 +1,5 @@
 # Ticket 01: Setting up a Cloud Print Server (CUPS on AWS EC2)
 
-# Ticket 01: Setting up a Cloud Print Server (CUPS)
-
 ## 📌 Issue Summary
 The local on-premise server (32-bit Debian) lacked the hardware architecture to install and run modern 64-bit print server software (CUPS). The objective was to migrate the print service to a cloud environment to ensure compatibility and availability.
 
